@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alember</h1>
 <h3 align="center">I code sometimes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gosucode&label=Profile%20views&color=0e75b6&style=flat" alt="gosucode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gosucode&label=Profile%20views&color=ED45D9&style=flat" alt="gosucode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gosucode" alt="gosucode" /></a> </p>
 
