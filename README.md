@@ -1,3 +1,4 @@
+<p align="center"><img src="https://www.lambdatest.com/resources/images/news24.gif" width="400px"/></p>
 <h1 align="center">Hi 👋, I'm Alember</h1>
 <h3 align="center">I code sometimes.</h3>
 
