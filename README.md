@@ -3,42 +3,40 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Alember</h1>
-<h3 align="center">I use vim BTW.</h3>
+<h3 align="center">I Love Stories Whether It's Fiction or Real Life.<br/> So tell me yours.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gosucode&label=Profile%20views&color=ED45D9&style=flat" alt="gosucode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gosucode&label=Hey%20Visitor%20No.&color=7719da&style=flat" alt="gosucode" /> </p>
 
 <p>Connect with Me:</p>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/alembershreesh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/LMberCRis1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://medium.com/@gosucode1945" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <a href="https://medium.com/@gosucode" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
   </a>
   <a href="https://www.instagram.com/alshreesh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
-
-- 🔭 I’m currently working on **Exciting Projects.**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [shreeshalember.com.np](https://shreeshalember.com.np)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@gosucode1945)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@gosucode)
 
-- 💬 Ask me about **React/Flutter**
+- 💬 Ask me about **Anything**, but i'll only answer which I know ;).
 
-- 📫 How to reach me **gosucode1945@gmail.com**
+- 📫 Mail me at **gosucode1945@gmail.com**
 
-- ⚡ Fun fact **I use Arch BTW**
+- ⚡ Fun fact **I learn something new everyday!**
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -61,8 +59,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -73,9 +69,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gosucode&show_icons=true&locale=en&layout=compact" alt="gosucode" /></p>
