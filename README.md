@@ -23,7 +23,7 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [shreeshalember.com.np](https://shreeshalember.com.np)
 
