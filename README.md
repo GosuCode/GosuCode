@@ -2,27 +2,23 @@
   <img src="https://raw.githubusercontent.com/GosuCode/GosuCode/output/snake.svg" alt="Snake animation" />
 </div>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gosucode&label=%F0%9F%95%B5%EF%B8%8F%20Tracker%20Log%20Entry&color=7719da&style=flat" alt="gosucode" />
+  <img src="https://komarev.com/ghpvc/?username=gosucode&label=👀%20Tracker%20Log%20Entry&color=7719da&style=flat" alt="gosucode" />
 </p>
-
 
 <p>Connect with Me:</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/alembershreesh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/LMberCRis1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://medium.com/@gosucode" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
   </a>
-  <a href="https://www.instagram.com/alshreesh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  <a href="https://twitter.com/LMberCRis1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
-- 👨‍💻 All of my projects are available at [shreeshalember.com.np](https://shreeshalember.com.np)
+- 👨‍💻 Visit my portfolio website at [shreeshalember.com.np](https://shreeshalember.com.np)
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@gosucode)
 
@@ -35,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
