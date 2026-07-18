@@ -59,4 +59,9 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing a scalable microservices API Gateway using KrakenD](https://medium.com/@gosucode/managing-a-scalable-microservices-api-gateway-using-krakend-7d90ab7dbb57?source=rss-15b372fad854------2)
+- [What the heck is Redis???](https://medium.com/codetodeploy/what-the-heck-is-redis-a67ac3a9f1f5?source=rss-15b372fad854------2)
+- [NodeJS: Event Loop&lpar;Short Version&rpar;??](https://medium.com/@gosucode/nodejs-event-loop-short-version-2475d6a4fef2?source=rss-15b372fad854------2)
+- [Docker???](https://medium.com/codetodeploy/docker-11994cb59c1a?source=rss-15b372fad854------2)
+- [Safe, zero-downtime way to increase storage on an EC2 instance &lpar;Ubuntu/Linux&rpar;.](https://medium.com/@gosucode/safe-zero-downtime-way-to-increase-storage-on-an-ec2-instance-ubuntu-linux-a1ec48b1d1ab?source=rss-15b372fad854------2)
 <!-- BLOG-POST-LIST:END -->
