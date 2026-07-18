@@ -7,9 +7,12 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@gosucode"
           max_post_count: 5
+          token: ${{ secrets.GITHUB_TOKEN }}
