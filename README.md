@@ -1,3 +1,4 @@
+![my kodama](https://kodama-sigma.vercel.app/GosuCode.svg)
 <div align="center">
   <img src="https://raw.githubusercontent.com/GosuCode/GosuCode/output/snake.svg" alt="Snake animation" />
 </div>
